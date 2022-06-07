@@ -29,7 +29,7 @@ Make it easier for users to see and hear content including separating foreground
 Use of Color
 * Bom exemplo: Todas as informações podem ser lidas de forma clara e objetiva
 ![image](https://user-images.githubusercontent.com/53242511/172458210-768a22bc-0da7-4a08-b18f-d7473c2b029a.png)
-
+---
 * Mal exemplo: Muitas cores vibrantes podendo causar certos danos a visão da pessoa dependendo do seu problema de saúde
 ![image](https://user-images.githubusercontent.com/53242511/172459794-c84d0563-5dfc-4dd2-8ad9-db5d6b371e65.png)
 
