@@ -10,7 +10,9 @@ Bom exemplo: nesta imagem o vídeo tem o texto com todas as falas do palestrante
 ## 1.2.6 Sign Language (Prerecorded)
 
 Sign language interpretation is provided for all prerecorded audio content in synchronized media.
-* Bom exemplo: 
+* Bom exemplo: Acesso facilitado a linguagem de sinais
+![image](https://user-images.githubusercontent.com/53242511/172481191-5880f511-0193-4664-ab04-916b41aad2c3.png)
+
 ---
 ---
 ---
@@ -54,6 +56,35 @@ A mechanism is available for identifying specific definitions of words or phrase
 
 * Bom exemplo: No wikipedia as palavras/termos que podem não ser compreendidadas claramente tem uma breve explicação só de passar o mouse
 ![image](https://user-images.githubusercontent.com/53242511/172464404-274dd0cf-2717-4df2-9d4f-badf3e9fd07a.png)
+
+* Mal exemplo: no site do G1 já não está disponível este recurso onde é preciso sair do site e epesquisar por fora para saber o significado de uma palavra
+![image](https://user-images.githubusercontent.com/53242511/172465248-b963442c-1f2f-4b20-ab61-9eff3dad1f9e.png)
+
+# 3.2 – Predictable
+Make Web pages appear and operate in predictable ways.
+
+## 3.2.4 Consistent Identification
+Components that have the same functionality within a set of Web pages are identified consistently.
+
+* Bom exemplo: No gmail os ícones são comuns em todos os sites facilitando nossa navegação pela intuição
+![image](https://user-images.githubusercontent.com/53242511/172466292-3ae40ef2-3bc4-488c-a750-3fd373e6c508.png)
+
+* Mal exemplo: No siga ficamos perdidos quanto ao que é botão ou imagem sem a presença de ícones
+![image](https://user-images.githubusercontent.com/53242511/172482000-66d704e6-6bf3-444b-9773-d5e887a8925c.png)
+
+# Guideline 3.3 – Input Assistance
+Help users avoid and correct mistakes.
+## 3.3.1 Error Identification
+If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text.
+
+* Bom exemplo: No cadastro da wish recebemos dicas do que não foi cadastrado corretamente
+![image](https://user-images.githubusercontent.com/53242511/172482424-e6dd314c-5d81-41af-ace4-974be04e5a1e.png)
+
+* Mal exemplo: Neste exemplo ao efetuar o login recebemos uma mensagem de erro genérica não informando exatamente onde esta o erro, se o e-mail digitado é válido ou não
+![image](https://user-images.githubusercontent.com/53242511/172483323-f9c0f05b-dc9b-4951-afa0-c7b652be041a.png)
+
+
+
 
 
 
