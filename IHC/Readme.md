@@ -14,8 +14,7 @@ Sign language interpretation is provided for all prerecorded audio content in sy
 ![image](https://user-images.githubusercontent.com/53242511/172481191-5880f511-0193-4664-ab04-916b41aad2c3.png)
 
 ---
----
----
+
 # Guideline 1.3 – Adaptable
 ## Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 * Bom exemplo: youtube. não importa o tamanho que a tela seja não perdemos nenhum conteúdo.
@@ -41,12 +40,11 @@ User interface components and navigation must be operable.
 Provide ways to help users navigate, find content, and determine where they are.
 * Bom exemplo: Com aquela seta no canto inferior direito podemos nos redirecionar até o topo da página nos permitindo sempre se encontrar no site e facilitando a navegação no mesmo.
 ![image](https://user-images.githubusercontent.com/53242511/172461292-ebcb5636-9091-4d09-8207-55743b519ea4.png)
-
+---
 * Mal exemplo: Ficamos totalmente perdidos no site do siga facilmente sem senso direção nenhuma
 ![image](https://user-images.githubusercontent.com/53242511/172461790-7d28e810-6163-48f6-8b58-3c2a2e18b370.png)
 
-## 2.5	Input Modalities
-Make it easier for users to operate functionality through various inputs beyond keyboard.
+---
 
 # 3 – Understandable
 Information and the operation of the user interface must be understandable.
@@ -56,10 +54,10 @@ A mechanism is available for identifying specific definitions of words or phrase
 
 * Bom exemplo: No wikipedia as palavras/termos que podem não ser compreendidadas claramente tem uma breve explicação só de passar o mouse
 ![image](https://user-images.githubusercontent.com/53242511/172464404-274dd0cf-2717-4df2-9d4f-badf3e9fd07a.png)
-
+---
 * Mal exemplo: no site do G1 já não está disponível este recurso onde é preciso sair do site e epesquisar por fora para saber o significado de uma palavra
 ![image](https://user-images.githubusercontent.com/53242511/172465248-b963442c-1f2f-4b20-ab61-9eff3dad1f9e.png)
-
+---
 # 3.2 – Predictable
 Make Web pages appear and operate in predictable ways.
 
@@ -68,7 +66,7 @@ Components that have the same functionality within a set of Web pages are identi
 
 * Bom exemplo: No gmail os ícones são comuns em todos os sites facilitando nossa navegação pela intuição
 ![image](https://user-images.githubusercontent.com/53242511/172466292-3ae40ef2-3bc4-488c-a750-3fd373e6c508.png)
-
+---
 * Mal exemplo: No siga ficamos perdidos quanto ao que é botão ou imagem sem a presença de ícones
 ![image](https://user-images.githubusercontent.com/53242511/172482000-66d704e6-6bf3-444b-9773-d5e887a8925c.png)
 
@@ -79,7 +77,7 @@ If an input error is automatically detected, the item that is in error is identi
 
 * Bom exemplo: No cadastro da wish recebemos dicas do que não foi cadastrado corretamente
 ![image](https://user-images.githubusercontent.com/53242511/172482424-e6dd314c-5d81-41af-ace4-974be04e5a1e.png)
-
+---
 * Mal exemplo: Neste exemplo ao efetuar o login recebemos uma mensagem de erro genérica não informando exatamente onde esta o erro, se o e-mail digitado é válido ou não
 ![image](https://user-images.githubusercontent.com/53242511/172483323-f9c0f05b-dc9b-4951-afa0-c7b652be041a.png)
 
