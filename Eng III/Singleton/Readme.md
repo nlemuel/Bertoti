@@ -8,5 +8,5 @@ Este padrão permite o controle sobre como e quando os clientes acessam a instâ
 Mas, usando Singleton você estará acoplando o seu código em uma implementação estática e específica e isso faz o seu código dependente dessa classe e impede, por exemplo, criar mocks em testes unitários. Em algumas linguagens, temos uma falsa segurança, como no java, onde por exemplo, não existe uma classe apenas por JVM. O conceito de carregamento de classes em java é feito por ClassLoader
 ## Diagrama
 <div align = 'center'>
-<img src = "(https://user-images.githubusercontent.com/53242511/204067741-a30292c4-76e2-4be3-bdca-7fea207c225d.png" width = '700px' />
+<img src = "https://user-images.githubusercontent.com/53242511/204067741-a30292c4-76e2-4be3-bdca-7fea207c225d.png" width = '700px' />
 </div>
