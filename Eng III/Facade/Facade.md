@@ -8,5 +8,5 @@ O pattern Facade auxilia muito isolando a complexidade em operações grandes ou
 
 ## Diagrama 
 <div align = 'center'>
-![Facade](https://user-images.githubusercontent.com/53242511/204067124-ca4b7751-81bc-454a-ba26-b9b4280eca5c.png)
+<img src = "https://user-images.githubusercontent.com/53242511/204067124-ca4b7751-81bc-454a-ba26-b9b4280eca5c.png" width = '700px' />
 </div>
